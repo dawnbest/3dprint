@@ -1,3 +1,6 @@
+# From Dawn
+Sass Experimentation based on an awesome Youtube video. I made a cool landing page for my 3D Print services and learned Sass. You can too! Original README notes follow:
+
 # Sass Crash Course Project
 
 This is the project based on the following tutorial:
